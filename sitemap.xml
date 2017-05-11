@@ -2,189 +2,189 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/2017/05/welcome-to-tranquilpeak-0.3.1-beta/</loc>
+    <loc>https://bradish7y.github.io/2017/05/welcome-to-tranquilpeak-0.3.1-beta/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/cover-image-showcase/</loc>
+    <loc>https://bradish7y.github.io/2017/05/cover-image-showcase/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/elements-showcase/</loc>
+    <loc>https://bradish7y.github.io/2017/05/elements-showcase/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/hidden-pagination-showcase/</loc>
+    <loc>https://bradish7y.github.io/2017/05/hidden-pagination-showcase/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/hidden-social-section-showcase/</loc>
+    <loc>https://bradish7y.github.io/2017/05/hidden-social-section-showcase/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/hidden-tag-section-showcase/</loc>
+    <loc>https://bradish7y.github.io/2017/05/hidden-tag-section-showcase/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/image-gallery-showcase/</loc>
+    <loc>https://bradish7y.github.io/2017/05/image-gallery-showcase/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/tags-plugins-showcase/</loc>
+    <loc>https://bradish7y.github.io/2017/05/tags-plugins-showcase/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/05/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%B1%87/</loc>
+    <loc>https://bradish7y.github.io/2017/05/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%B1%87/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/algorithm/</loc>
-    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/archives/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2017-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>https://bradish7y.github.io/categories/algorithm/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/cover-image/</loc>
-    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    <loc>https://bradish7y.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/disqus/</loc>
+    <loc>https://bradish7y.github.io/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/example/</loc>
+    <loc>https://bradish7y.github.io/categories/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/tags/cover-image/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/tags/disqus/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/google-analytics/</loc>
+    <loc>https://bradish7y.github.io/categories/example/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/gravatar/</loc>
+    <loc>https://bradish7y.github.io/tags/google-analytics/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hexo-theme/</loc>
+    <loc>https://bradish7y.github.io/tags/gravatar/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/highlight-code/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/html-elements/</loc>
-    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/image-gallery/</loc>
-    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pagination/</loc>
-    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://bradish7y.github.io/tags/hexo-theme/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/responsive/</loc>
+    <loc>https://bradish7y.github.io/tags/highlight-code/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/tags/html-elements/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/tags/image-gallery/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/tags/markdown/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/tags/pagination/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/post/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/social/</loc>
+    <loc>https://bradish7y.github.io/tags/responsive/</loc>
+    <lastmod>2017-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bradish7y.github.io/tags/social/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tag-plugins/</loc>
+    <loc>https://bradish7y.github.io/tags/tag-plugins/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://bradish7y.github.io/tags/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tags/</loc>
+    <loc>https://bradish7y.github.io/tags/tags/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/1/01/video-integrations-showcase/</loc>
+    <loc>https://bradish7y.github.io/1/01/video-integrations-showcase/</loc>
   </url>
   
   <url>
-    <loc>/tags/videos/</loc>
+    <loc>https://bradish7y.github.io/tags/videos/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/1/01/highlighted-code-showcase/</loc>
+    <loc>https://bradish7y.github.io/1/01/highlighted-code-showcase/</loc>
   </url>
   
   <url>
-    <loc>/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://bradish7y.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

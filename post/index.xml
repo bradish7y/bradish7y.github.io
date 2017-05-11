@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bradish7Y Blog</title>
-    <link>/post/</link>
+    <link>https://bradish7y.github.io/post/</link>
     <description>Recent content in Posts on Bradish7Y Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bradish7y.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to Tranquilpeak 0.3.1-BETA</title>
-      <link>/2017/05/welcome-to-tranquilpeak-0.3.1-beta/</link>
+      <link>https://bradish7y.github.io/2017/05/welcome-to-tranquilpeak-0.3.1-beta/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/welcome-to-tranquilpeak-0.3.1-beta/</guid>
+      <guid>https://bradish7y.github.io/2017/05/welcome-to-tranquilpeak-0.3.1-beta/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cover image showcase</title>
-      <link>/2017/05/cover-image-showcase/</link>
+      <link>https://bradish7y.github.io/2017/05/cover-image-showcase/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/cover-image-showcase/</guid>
+      <guid>https://bradish7y.github.io/2017/05/cover-image-showcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elements showcase</title>
-      <link>/2017/05/elements-showcase/</link>
+      <link>https://bradish7y.github.io/2017/05/elements-showcase/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/elements-showcase/</guid>
+      <guid>https://bradish7y.github.io/2017/05/elements-showcase/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden pagination showcase</title>
-      <link>/2017/05/hidden-pagination-showcase/</link>
+      <link>https://bradish7y.github.io/2017/05/hidden-pagination-showcase/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/hidden-pagination-showcase/</guid>
+      <guid>https://bradish7y.github.io/2017/05/hidden-pagination-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden social section showcase</title>
-      <link>/2017/05/hidden-social-section-showcase/</link>
+      <link>https://bradish7y.github.io/2017/05/hidden-social-section-showcase/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/hidden-social-section-showcase/</guid>
+      <guid>https://bradish7y.github.io/2017/05/hidden-social-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden tag section showcase</title>
-      <link>/2017/05/hidden-tag-section-showcase/</link>
+      <link>https://bradish7y.github.io/2017/05/hidden-tag-section-showcase/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/hidden-tag-section-showcase/</guid>
+      <guid>https://bradish7y.github.io/2017/05/hidden-tag-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Image gallery showcase</title>
-      <link>/2017/05/image-gallery-showcase/</link>
+      <link>https://bradish7y.github.io/2017/05/image-gallery-showcase/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/image-gallery-showcase/</guid>
+      <guid>https://bradish7y.github.io/2017/05/image-gallery-showcase/</guid>
       <description>&lt;p&gt;And here is the image gallery!
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tags plugins showcase</title>
-      <link>/2017/05/tags-plugins-showcase/</link>
+      <link>https://bradish7y.github.io/2017/05/tags-plugins-showcase/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/tags-plugins-showcase/</guid>
+      <guid>https://bradish7y.github.io/2017/05/tags-plugins-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>算法小汇</title>
-      <link>/2017/05/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%B1%87/</link>
+      <link>https://bradish7y.github.io/2017/05/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%B1%87/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%B1%87/</guid>
+      <guid>https://bradish7y.github.io/2017/05/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%B1%87/</guid>
       <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Video integrations showcase</title>
-      <link>/1/01/video-integrations-showcase/</link>
+      <link>https://bradish7y.github.io/1/01/video-integrations-showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/1/01/video-integrations-showcase/</guid>
+      <guid>https://bradish7y.github.io/1/01/video-integrations-showcase/</guid>
       <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>highlighted code showcase</title>
-      <link>/1/01/highlighted-code-showcase/</link>
+      <link>https://bradish7y.github.io/1/01/highlighted-code-showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/1/01/highlighted-code-showcase/</guid>
+      <guid>https://bradish7y.github.io/1/01/highlighted-code-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
 &lt;/p&gt;</description>
     </item>

@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bradish7Y Blog</title>
-    <link>/tags/</link>
+    <link>https://bradish7y.github.io/tags/</link>
     <description>Recent content in Tags on Bradish7Y Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bradish7y.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cover Image</title>
-      <link>/tags/cover-image/</link>
+      <link>https://bradish7y.github.io/tags/cover-image/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cover-image/</guid>
+      <guid>https://bradish7y.github.io/tags/cover-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disqus</title>
-      <link>/tags/disqus/</link>
+      <link>https://bradish7y.github.io/tags/disqus/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/disqus/</guid>
+      <guid>https://bradish7y.github.io/tags/disqus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Analytics</title>
-      <link>/tags/google-analytics/</link>
+      <link>https://bradish7y.github.io/tags/google-analytics/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/google-analytics/</guid>
+      <guid>https://bradish7y.github.io/tags/google-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gravatar</title>
-      <link>/tags/gravatar/</link>
+      <link>https://bradish7y.github.io/tags/gravatar/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gravatar/</guid>
+      <guid>https://bradish7y.github.io/tags/gravatar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hexo Theme</title>
-      <link>/tags/hexo-theme/</link>
+      <link>https://bradish7y.github.io/tags/hexo-theme/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hexo-theme/</guid>
+      <guid>https://bradish7y.github.io/tags/hexo-theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlight Code</title>
-      <link>/tags/highlight-code/</link>
+      <link>https://bradish7y.github.io/tags/highlight-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/highlight-code/</guid>
+      <guid>https://bradish7y.github.io/tags/highlight-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html Elements</title>
-      <link>/tags/html-elements/</link>
+      <link>https://bradish7y.github.io/tags/html-elements/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/html-elements/</guid>
+      <guid>https://bradish7y.github.io/tags/html-elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Gallery</title>
-      <link>/tags/image-gallery/</link>
+      <link>https://bradish7y.github.io/tags/image-gallery/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/image-gallery/</guid>
+      <guid>https://bradish7y.github.io/tags/image-gallery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://bradish7y.github.io/tags/markdown/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>https://bradish7y.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pagination</title>
-      <link>/tags/pagination/</link>
+      <link>https://bradish7y.github.io/tags/pagination/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pagination/</guid>
+      <guid>https://bradish7y.github.io/tags/pagination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive</title>
-      <link>/tags/responsive/</link>
+      <link>https://bradish7y.github.io/tags/responsive/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/responsive/</guid>
+      <guid>https://bradish7y.github.io/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social</title>
-      <link>/tags/social/</link>
+      <link>https://bradish7y.github.io/tags/social/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/social/</guid>
+      <guid>https://bradish7y.github.io/tags/social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag Plugins</title>
-      <link>/tags/tag-plugins/</link>
+      <link>https://bradish7y.github.io/tags/tag-plugins/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tag-plugins/</guid>
+      <guid>https://bradish7y.github.io/tags/tag-plugins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>/tags/tags/</link>
+      <link>https://bradish7y.github.io/tags/tags/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tags/</guid>
+      <guid>https://bradish7y.github.io/tags/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videos</title>
-      <link>/tags/videos/</link>
+      <link>https://bradish7y.github.io/tags/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/videos/</guid>
+      <guid>https://bradish7y.github.io/tags/videos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>算法</title>
-      <link>/tags/%E7%AE%97%E6%B3%95/</link>
+      <link>https://bradish7y.github.io/tags/%E7%AE%97%E6%B3%95/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/%E7%AE%97%E6%B3%95/</guid>
+      <guid>https://bradish7y.github.io/tags/%E7%AE%97%E6%B3%95/</guid>
       <description></description>
     </item>
     
